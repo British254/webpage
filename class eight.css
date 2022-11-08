@@ -1,0 +1,52 @@
+{
+}
+.header{
+	  background:blue;
+	  border-radius: 03px;
+	  text-shadow:ThreeDFace;
+	  capitalize:uppercase;
+	  padding:1px;
+	  text-align:center;
+	  font size=6;
+	  color="lime;
+}
+
+.footer{
+	   background: #000000;
+	   padding: 16px;
+	   color: #fff;
+	   text-align:center;
+}
+
+.body{
+	  display: inline-block;
+	  background: #ff523b;
+	  color: #fffff;
+	  padding: 8px 30px;
+	  margin; 30px 0;
+	  border-radius: 10px;
+}
+
+.h2{
+  display: block;
+  padding: 10px;
+  background:orange;
+  list-style-type:list-item;
+}
+
+.h3{
+  display: block;
+  padding: 10px;
+  background:red;
+  list-style-type:list-item;
+ 
+}
+.answers{
+	background:yellow;
+	padding:30px;
+	margin:3px;
+	text-align;center;
+	
+
+}
+
